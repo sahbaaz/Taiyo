@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Taiyo/static/css/main.b02acced.css",
+    "main.js": "/Taiyo/static/js/main.8c811de0.js",
+    "static/js/787.a7212724.chunk.js": "/Taiyo/static/js/787.a7212724.chunk.js",
+    "index.html": "/Taiyo/index.html",
+    "main.b02acced.css.map": "/Taiyo/static/css/main.b02acced.css.map",
+    "main.8c811de0.js.map": "/Taiyo/static/js/main.8c811de0.js.map",
+    "787.a7212724.chunk.js.map": "/Taiyo/static/js/787.a7212724.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b02acced.css",
+    "static/js/main.8c811de0.js"
+  ]
+}
